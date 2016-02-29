@@ -1,9 +1,10 @@
-The table below shows contains avergae procedure scores, procedure score variability and average survey scores for the top 10 
-and the lowest 10 by average procedure score sorted by averages procedure score descending. 
+The table below shows average procedure scores, procedure score variability and average survey scores for the top 20 
+and the lowest 20 hospitals sorted by average procedure score. There does appear to be a rough correlation between the average procedure scores and the average survey scores. The survey scores for the top group are in the 15-34 range while the survey scores for the lowest group are in the 25-80 range (excluding apparent outliers). There may be a correlation between procedure score variablity and survey scores although the direction of the correlation is counter-intuitive. The variablity for almost half of the top group of hospitals is over 10000 while the maximium variablity for the lowest group never exceeds 2700. Further analysis is warranted to examine the size, significance and potential explanations for any substantiated correlations. Next steps might include:
+  1. cleaning the data to remove outliers and records with missing data
+  2. examining scatterplots of procedure scores vs. survey scores and variability vs. survey scores for linearity
+  3. conductinng regression analysis on the two pairs of variables
 
-
-
-
+                                      TOP 20 HOSPITALS BY AVERAGE PROCEDURE SCORE
 Hospital                                                Average Proc Score      Proc Score Variability  Average Survey Score
 FALLS COMMUNITY HOSPITAL AND CLINIC                     170.91176470588235      130340.41162629757      62.0
 PROVIDENT HOSPITAL OF CHICAGO                           111.73703703703704      12751.040109739368      34.0
@@ -26,7 +27,7 @@ SUMMIT MEDICAL CENTER                                   97.39999999999999       
 KAISER FOUNDATION HOSPITAL - PANORAMA CITY              96.90967741935484       1502.773777315296       20.0
 KAISER FOUNDATION HOSPITAL MANTECA                      96.88125                3105.7746484374998      24.0
 
-
+                                      LOWER 20 HOSPITALS BY AVERAGE PROCEDURE SCORE
 CALDWELL MEMORIAL HOSPITAL, INC                         24.699999999999996      547.6184615384616       54.0
 PERRY COMMUNITY HOSPITAL                                36.05714285714286       1500.1795918367347      NULL
 PHYSICIANS' SPECIALTY HOSPITAL                          36.333333333333336      1296.5855555555556      80.0
