@@ -3,7 +3,7 @@ CREATE TABLE regression_table AS SELECT h.name, e.provider_id, e.measure_id, AVG
 VARIANCE(e.score) as variance,
 AVG(s.hcahps_base_score)
 FROM combined_trans e
-JOIN hospital_trans h
+JOIN hospitals_trans h
 ON e.provider_id = h.provider_id
 JOIN surveys_trans s
 ON h.provider_id = s.provider_id
