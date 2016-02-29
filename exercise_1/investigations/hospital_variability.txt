@@ -1,6 +1,5 @@
-In this evaluation the overall varaiance across each procedure was caluclated and ranked. The results below show the 10 
-procedures with the highest variability across all hospitals. Not surprisingly five of the top ten with the highest varilabily 
-involve the emergency room.
+In this evaluation the overall variance across each procedure was caluclated and ranked. The results below show the 10 
+procedures with the highest variability across all hospitals. The most noteable thing that stands out is that fully half of the top ten involve emergency services, which is not surprising given the nature of that treatment environment. I think it would be useful to repeat the analysis excluding the emergency room services to see what other less obvious areas might be interesting to focus on.
 
 Procedure                                                                                       Variance
 Median Time from ED Arrival to ED Departure for Admitted ED Patients                            8617.740839212507
