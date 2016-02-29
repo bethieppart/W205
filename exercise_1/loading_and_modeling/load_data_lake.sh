@@ -1,6 +1,6 @@
 rm -rf /data/W205
 git clone https://github.com/bethieppart/W205.git
-cd /data/exercise_1/W205/exercise_1/loading_and_modeling
+cd /data/W205/exercise_1/loading_and_modeling
 gunzip Timely.and.Effective.Care.-.Hospital.csv.gz
 tail -n +2 Hospital.General.Information.csv > hospitals.csv
 tail -n +2 Timely.and.Effective.Care.-.Hospital.csv > effective.csv
