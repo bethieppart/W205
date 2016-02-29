@@ -1,5 +1,5 @@
 rm -rf /data/exercise_1/w205_exercise_1
-git clone https://github.com/bethieppart/w205_exercise_1.git
+git clone https://github.com/bethieppart/W205/exercise_1.git
 cd w205_exercise_1
 gunzip Timely.and.Effective.Care.-.Hospital.csv.gz
 tail -n +2 Hospital.General.Information.csv > hospitals.csv
