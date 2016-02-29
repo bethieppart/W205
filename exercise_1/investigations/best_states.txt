@@ -1,5 +1,6 @@
 I completed this analysis using the same defintions and approach as the with the best_hospitals analysis. The table below shows the
-10 states that have the highest average scores across a variety of procedures.
+10 states that have the highest average scores across a variety of procedures. The scores are fairly close together and the variances are
+similar as compared to the hospital analysis in the previous step. Interestingly, eight of the top ten states are on the east coast of the country. The two exceptions are Nevada and California. 
 
 State   Average Score           Variance
 DC      100.98529411764706      5540.448313148787
