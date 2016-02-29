@@ -1,5 +1,5 @@
 DROP TABLE regression_table; 
-CREATE TABLE regression_table AS SELECT h.name, e.provider_id, AVG(e.score) as average,
+CREATE TABLE regression_table AS SELECT h.name, AVG(e.score) as average,
 VARIANCE(e.score) as variance,
 AVG(s.hcahps_base_score)
 FROM combined_trans e
