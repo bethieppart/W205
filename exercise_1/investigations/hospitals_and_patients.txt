@@ -4,7 +4,7 @@ and the lowest 10 by average procedure score sorted by averages procedure score 
 
 
 
-
+Hospital                                                Average Proc Score      Proc Score Variability  Average Survey Score
 FALLS COMMUNITY HOSPITAL AND CLINIC                     170.91176470588235      130340.41162629757      62.0
 PROVIDENT HOSPITAL OF CHICAGO                           111.73703703703704      12751.040109739368      34.0
 KERN MEDICAL CENTER                                     109.4342857142857       14554.09253877551       18.0
@@ -25,3 +25,25 @@ HARRIS HEALTH SYSTEM                                    97.78399999999999       
 SUMMIT MEDICAL CENTER                                   97.39999999999999       4263.622857142856       NULL
 KAISER FOUNDATION HOSPITAL - PANORAMA CITY              96.90967741935484       1502.773777315296       20.0
 KAISER FOUNDATION HOSPITAL MANTECA                      96.88125                3105.7746484374998      24.0
+
+
+CALDWELL MEMORIAL HOSPITAL, INC                         24.699999999999996      547.6184615384616       54.0
+PERRY COMMUNITY HOSPITAL                                36.05714285714286       1500.1795918367347      NULL
+PHYSICIANS' SPECIALTY HOSPITAL                          36.333333333333336      1296.5855555555556      80.0
+BEACHAM MEMORIAL HOSPITAL                               36.605                  732.4764749999999       49.0
+NOCONA GENERAL HOSPITAL                                 36.65555555555556       806.3880246913582       NULL
+NESHOBA COUNTY GENERAL HOSPITAL                         38.168                  1395.2645760000003      70.0
+MASONIC HOME AND HOSPITAL                               40.516666666666666      949.1213888888889       NULL
+PUSHMATAHA HOSPITAL                                     43.32272727272727       1516.0672107438013      NULL
+DIMMIT REGIONAL HOSPITAL                                44.440000000000005      2768.3334               NULL
+COLUSA REGIONAL MEDICAL CENTER                          44.93636363636363       1815.5868595041322      38.0
+BRYAN W. WHITFIELD MEMORIAL HOSPITAL                    45.91379310344828       1554.4729131985735      35.0
+EAST TEXAS MEDICAL CENTER TRINITY                       46.255                  2484.1124750000004      NULL
+BROWNFIELD REGIONAL MEDICAL CENTER                      46.92272727272727       1755.5326652892566      41.0
+PINNACLE HOSPITAL                                       47.2                    1131.8440000000003      19.0
+GEORGIANA MEDICAL CENTER                                47.29411764705884       1595.6817301038066      69.0
+SABINE MEDICAL CENTER                                   47.304761904761904      2062.406167800454       28.0
+HEALTHMARK REGIONAL MEDICAL CENTER                      47.36363636363637       1944.382314049587       46.0
+COOPER COUNTY MEMORIAL HOSPITAL                         47.614999999999995      1846.3192749999998      25.0
+CHOCTAW MEMORIAL HOSPITAL                               47.64827586206896       2044.3611177170033      10.0
+EAST TEXAS MEDICAL CENTER MOUNT VERNON                  47.88333333333333       1868.5147222222222      79.0
