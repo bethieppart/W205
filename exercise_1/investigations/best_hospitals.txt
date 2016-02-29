@@ -1,0 +1,15 @@
+Highest quality in this assigment is defined as the most consistently high scores across a variety of procedures. Exploration of the
+data in the two procedures tables, Readmissions_and_Deaths and Timely_and_Effective_Care, revealed that not all hospitals reported on
+all procedures. Therefore using a cumulative score would not be effective. I chose instead to use the average across all procedures that
+were reported. The 10 records below represent the hospitals that have the highest average rate accross all reported procedures.
+                                            Average                 Variablity
+BEAR VALLEY COMMUNITY HOSPITAL              175.33333333333334      16417.55555555556
+FALLS COMMUNITY HOSPITAL AND CLINIC         170.91176470588235      130340.41162629757
+HOSP COMUNITARIO BUEN SAMARITANO            126.23181818181821      44555.32853305785
+NOVANT HEALTH HAYMARKET MEDICAL CENTER      124.0                   3979.5555555555557
+CRESCENT MEDICAL CENTER LANCASTER           114.16666666666667      14841.4722222222
+SPECTRUM HEALTH GERBER MEMORIAL             113.72727272727273      2236.380165289256
+PROVIDENT HOSPITAL OF CHICAGO               111.73703703703704      12751.040109739368
+KERN MEDICAL CENTER                         109.4342857142857       14554.09253877551
+SAN CARLOS INDIAN HOSPITAL                  105.5                   9726.25
+UNIVERSITY OF SOUTH ALABAMA MEDICAL CENTER  105.06153846153848      6597.685443786983
