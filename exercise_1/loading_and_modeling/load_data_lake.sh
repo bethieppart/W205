@@ -1,5 +1,4 @@
-rm -rf /data/exercise_1
-mkdir /data/exercise_1
+rm -rf /data/W205
 git clone https://github.com/bethieppart/W205.git
 cd /data/exercise_1/W205/exercise_1/loading_and_modeling
 gunzip Timely.and.Effective.Care.-.Hospital.csv.gz
